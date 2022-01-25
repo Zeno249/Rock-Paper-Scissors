@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+.title {
+    padding-bottom: 20px;
+}
+
+.options {
+    width: 10em;
+    margin: 20px;
+    padding: 16px;
+    font-size: 16px;
+    
+
+    border: 6px solid black;
+    border-radius: 25px;
+}
+
