@@ -72,7 +72,7 @@ function compareInputs(playerInput, computerInput) {
     }
     // Scissors
     else if (playerInput === "Scissors") {
-        if (compareInputs === 'Paper') {
+        if (computerInput === 'Paper') {
             alert(`${currentMatch} = You Win!`);
             playerScore++;
         }
